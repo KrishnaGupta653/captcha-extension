@@ -1,7 +1,4 @@
-// ==========================================
-// IRCTC TATKAL SCRIPT WITH SMART RESUME + CONTROLS
-// Smart Resume: Detects current page and continues from there
-// ==========================================
+
 
 const TICKET_CONFIG = {
   // FROM_STATION_CODE: "GZB",
