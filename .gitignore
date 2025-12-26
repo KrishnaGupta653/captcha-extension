@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+venv/
+env/
+.venv
+.env
+
+# Model files
+*.pth
+*.onnx
+*.h5
+*.pb
+*.pb.txt
+
+# Datasets
+dataset/
+dataset_errors/
+raw_captcha_images/
+labeled_captcha_images/
+CAPTCHA-labeled-dataset/
+CAPTCHA-labeled-dataset-copy/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Checkpoints
+checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
